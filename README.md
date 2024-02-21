@@ -54,3 +54,33 @@ Terdapat opsi untuk keluar/lanjut
 
 6. Menambah data
 
+Merupakan menu yang bertujuan menambahkan data pada urutan akhir daftar
+Di dalamnya akan menambahkan data baru pada seluruh kolom key data, yaitu:
+Nomor Yellow Pages
+Nama
+Alamat
+Pekerjaan
+Nomor HP
+email
+Selesai data dimasukkan akan muncul opsi lanjut/tidak
+
+7. Memperbarui data tertentu
+
+Fitur ini akan menambahkan data ‘value’ baru pada kolom ‘key’ yang dipilih berdasarkan ‘index’ yang diinput
+Bila ‘index’ tidak ditemukan maka akan muncul keterangan
+Bila ‘key’ tidak ditemukan juga akan muncul keterangan
+Selanjutnya ‘value’ baru diinput berdasarkan ‘key’ pilihan
+Selesai data dimasukkan akan muncul opsi lanjut/tidak
+
+8. Menghapus data tertentu
+
+Fitur ini akan menghapus dictionary data tertentu berdasarkan nomor index yang dipilih
+Selesai data dihapus akan muncul opsi lanjut hapus/tidak
+
+9. Menghapus seluruh data
+
+Fitur ini akan menghapus seluruh data di dalam Yellow Pages 
+Sebelum penghapusan akan muncul pertanyaan untuk memastikan bahwa user benar-benar yakin akan menghapus seluruh data
+ 
+10. Keluar
+Fitur ini akan mengeluarkan user dari program database Yellow Pages
