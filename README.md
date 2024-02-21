@@ -68,12 +68,12 @@
 
 -Di dalamnya akan menambahkan data baru pada seluruh kolom key data, yaitu:
 
--Nomor Yellow Pages
-1. Nama
-2. Alamat
-3. Pekerjaan
-4. Nomor HP
-5. email
+1. Nomor Yellow Pages
+2. Nama
+3. Alamat
+4. Pekerjaan
+5. Nomor HP
+6. email
 
 -Selesai data dimasukkan akan muncul opsi lanjut/tidak
 
