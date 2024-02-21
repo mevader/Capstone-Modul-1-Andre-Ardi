@@ -74,24 +74,31 @@
 3. Pekerjaan
 4. Nomor HP
 5. email
+
 -Selesai data dimasukkan akan muncul opsi lanjut/tidak
 
 **Menu 7. Memperbarui data tertentu**
 
 -Fitur ini akan menambahkan data ‘value’ baru pada kolom ‘key’ yang dipilih berdasarkan ‘index’ yang diinput
+
 -Bila ‘index’ tidak ditemukan maka akan muncul keterangan
+
 -Bila ‘key’ tidak ditemukan juga akan muncul keterangan
+
 -Selanjutnya ‘value’ baru diinput berdasarkan ‘key’ pilihan
+
 -Selesai data dimasukkan akan muncul opsi lanjut/tidak
 
 **Menu 8. Menghapus data tertentu**
 
 -Fitur ini akan menghapus dictionary data tertentu berdasarkan nomor index yang dipilih
+
 -Selesai data dihapus akan muncul opsi lanjut hapus/tidak
 
 **Menu 9. Menghapus seluruh data**
 
 -Fitur ini akan menghapus seluruh data di dalam Yellow Pages 
+
 -Sebelum penghapusan akan muncul pertanyaan untuk memastikan bahwa user benar-benar yakin akan menghapus seluruh data
  
 **Menu 10. Keluar**
