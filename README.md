@@ -41,3 +41,16 @@ Bila nama tidak ditemukan akan muncul keterangan
 Terdapat opsi untuk keluar/lanjut
 
 4. Menampilkan data berdasarkan alamat tertentu
+
+Menu ini akan memanggil dan menampilkan data berdasarkan alamat yang diinput
+Bila alamat tidak ditemukan akan muncul keterangan
+Terdapat opsi untuk keluar/lanjut
+
+5. Menampilkan data berdasarkan pekerjaan tertentu
+
+Menu ini akan memanggil dan menampilkan data berdasarkan alamat yang diinput
+Bila alamat tidak ditemukan akan muncul keterangan
+Terdapat opsi untuk keluar/lanjut
+
+6. Menambah data
+
